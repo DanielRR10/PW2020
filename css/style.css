@@ -13,3 +13,11 @@ body{
 .texto-impactante{
     color: red;
 }
+
+.texto-fuerte{
+    font-size: 3rem;
+}
+
+.texto-cursivo{
+    font-style: italic;
+}
